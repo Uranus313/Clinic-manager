@@ -1,7 +1,6 @@
 public abstract class ClinicMember extends Person{
     private long salary;
-    private boolean nightShift;
-    private boolean organce;
+    private boolean nightShift
     
     public ClinicMember(String firstName, String lastName, String address, String birthDate, long personalID,
             long salary, boolean nightShift, boolean organce,String password) {
