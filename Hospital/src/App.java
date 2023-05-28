@@ -5,7 +5,7 @@ import java.util.Scanner;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
-
+import java.sql.*;
 class test{
      private ArrayList<Doctor> ar;
     test(){
